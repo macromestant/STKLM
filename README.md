@@ -2,7 +2,7 @@
 
 'Descripción'
 
-Imitación de la web de Pixar como práctica para el curso de desarrolladora web Jr. de BeJob.
+Imitación de la web de STKLM como práctica para el curso de desarrolladora web Jr. de BeJob.
 
 'Tiempo de programación ⏰'
 Este clon ha sido programado en unas 8 horas a lo largo de varios días.
